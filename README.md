@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou William 👋</h1>
+<h3 align="center">Desenvolvedor Full Stack | Estudante de BCC</h3>
 
-<!--
-**w-torresdev/w-torresdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Apaixonado+por+tecnologia;Sempre+aprendendo;Aberto+a+novas+oportunidades" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mim
+
+- 🔭 Atualmente trabalhando na **F-SOFT Sistemas**
+- 🌱 Estudando **PHP**
+- 💬 Pergunte-me sobre **Java**
+- 📍 Moro em **Pernambuco, Brasil**
+- ⚡ Curiosidade: gosto de estudar história e mitologias
+
+### 🛠️ Tecnologias
+
+![Skills](https://skillicons.dev/icons?i=java,php,ts,js,react,python,git,postgres)
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/w-torresdev/w-torresdev/output/bomberman-contribution-graph.svg">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=w-torresdev&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-torresdev&layout=compact&theme=tokyonight" />
+</p>
+
+### 📫 Contato
+
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/williamtorresdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:t.albuquerquewilliam@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
