@@ -22,10 +22,15 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/w-torresdev/w-torresdev/output/bomberman-contribution-graph.svg">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=w-torresdev&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-torresdev&layout=compact&theme=tokyonight" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/w-torresdev/w-torresdev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/w-torresdev/w-torresdev/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/w-torresdev/w-torresdev/output/github-snake.svg" />
+</picture>
 
 ### 📫 Contato
 
